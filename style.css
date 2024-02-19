@@ -20,13 +20,13 @@ h1.newupd {
     border-radius: 10px;
 }
 
-section.upd1 {
+section.upd {
     border-radius: 10px;
     background-image: linear-gradient(darkgray, gray);
     border-color: aliceblue;
 }
 
-.upd1t {
+.updt {
     margin-left: 15px;
 }
 
